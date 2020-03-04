@@ -25,7 +25,7 @@ python3 PelakFinder.py CAR_TAG_CODE CAR_TAG_ALPHABET_(optional)
 ```
 ### Screenshot
 
-![PelakFinder_Screenshot.png](https://github.com/ebsa491)
+![PelakFinder](PelakFinder_Screenshot.png?raw=true)
 
 ### Other
 
