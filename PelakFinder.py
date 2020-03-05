@@ -25,7 +25,7 @@ class PelakFinder:
             alphabet = sys.argv[2]
 
         # JSON compilation and creation by Saman Ebrahimnezhad .
-        # Online_RESTFUL_API : https://api.jsonbin.io/b/5a577a6d7cfd5a4dbc6b3b19
+        # Online_RESTFUL_API : https://api.jsonbin.io/b/5a577a6d7cfd5a4dbc6b3b19/2
         
         jsonFile = open("Pelaks.json", mode = 'r')
         
