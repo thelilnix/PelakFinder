@@ -2,6 +2,7 @@
 This program can find the city of a car tag in Iran. (GUI)
 
 [![Build Status](https://img.shields.io/badge/build-passing-success)](https://samebison.ir)
+[![Python: 3.5](https://img.shields.io/badge/python-3.5-blue)](https://www.python.org/downloads/release/python-350/)
 [![License: LGPL](https://img.shields.io/badge/license-LGPL--3.0-informational)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ### Requirements
