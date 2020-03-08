@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-# Massachusetts Institute of Technology (MIT) .
+# GNU Lesser General Public License (LGPL) v3.0 .
 # An open source project created by Saman Ebrahimnezhad .
 # Created at Iran (IR) .
 # Python 3 .
