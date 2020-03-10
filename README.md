@@ -21,7 +21,7 @@ Shell:
 
 ```shell
 
-python3 PelakFinder.py CAR_TAG_CODE CAR_TAG_ALPHABET_(optional)
+$ python3 PelakFinder.py CAR_TAG_CODE CAR_TAG_ALPHABET_(optional)
 
 ```
 **Note:** You can use ```Pelaks.json``` for your personal projects (but pay attention to license and don't forget the creator's name)
