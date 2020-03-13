@@ -2,6 +2,7 @@
 This program can find the city of a car tag in Iran. (GUI)
 
 [![Build Status](https://img.shields.io/badge/build-passing-success)](https://samebison.ir)
+[![Version: 1.0.1](https://img.shields.io/badge/version-1.0.1-green)](https://samebison.ir)
 [![Python: 3.5](https://img.shields.io/badge/python-3.5-blue)](https://www.python.org/downloads/release/python-350/)
 [![License: LGPL](https://img.shields.io/badge/license-LGPL--3.0-informational)](https://www.gnu.org/licenses/lgpl-3.0)
 
@@ -21,7 +22,7 @@ Shell:
 
 ```shell
 
-python3 PelakFinder.py CAR_TAG_CODE CAR_TAG_ALPHABET_(optional)
+$ python3 PelakFinder.py CAR_TAG_CODE CAR_TAG_ALPHABET_(optional)
 
 ```
 **Note:** You can use ```Pelaks.json``` for your personal projects (but pay attention to license and don't forget the creator's name)
@@ -36,7 +37,7 @@ python3 PelakFinder.py CAR_TAG_CODE CAR_TAG_ALPHABET_(optional)
 
 &#127279; GNU Lesser General Public License (LGPL) v3.0 .
 
-An open source project created by Saman Ebrahimnezhad .
+The project has been developed by Saman Ebrahimnezhad .
 
 Created in Iran (IR) .
 
