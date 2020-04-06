@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # -*- coding: UTF-8 -*-
 # GNU Lesser General Public License (LGPL) v3.0 .
 # The project has been developed by Saman Ebrahimnezhad .
